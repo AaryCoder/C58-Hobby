@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#img {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+}
+
+p {
+    padding: 20px;
+    font-family: Merriweather;
+    font-size: 22px;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    z-index: 444;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 35px;
+    font-family: 'Akronim', cursive;
+}
+
+.links:hover {
+  background-color: whitesmoke;
+}
+
+.welcome{
+    background: linear-gradient(crimson 50%, red 100%);
+    background-repeat: no-repeat;
+}
+
+.Home{
+    background-color: crimson;
+    padding-top: 
+}
